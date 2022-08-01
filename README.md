@@ -1,5 +1,13 @@
 # PentRacker
 A desktop application in python that provides some security functionalities.
+
+
+
+
+![img1](Capture d’écran (37).png)
+![img2](Capture d’écran (38).png)
+
+
 ## Functionalities
 - Double factor authentification
 - Encoding / Decoding (Base 64, Base 32, Base 16)
