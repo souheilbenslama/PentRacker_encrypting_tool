@@ -4,9 +4,9 @@ A desktop application in python that provides some security functionalities.
 
 
 
-![img1](Capture d’écran.png)
+![img1](imm1.png)
 
-![img2](Capture d’écran.png)
+![img2](imm2.png)
 
 
 ## Functionalities
